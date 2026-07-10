@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 894 >>
+stream
+BT
+/F1 22 Tf
+72 724 Td
+(Tanmay Kumar Mallick) Tj
+/F1 13 Tf
+0 -30 Td
+(Aspiring Software Developer | Cybersecurity Enthusiast | BCA Student) Tj
+0 -22 Td
+(Odisha, India | tanmaykumar5147@gmail.com) Tj
+0 -22 Td
+(GitHub: github.com/itz-tanmay-009 | LinkedIn: tanmay-ku-mallick-858405334) Tj
+0 -42 Td
+(Summary) Tj
+0 -22 Td
+(BCA student focused on backend development, software engineering, cybersecurity, networking, and AI security.) Tj
+0 -38 Td
+(Core Skills) Tj
+0 -22 Td
+(Python, Java, C++, JavaScript, Node.js, Express.js, EJS, MySQL, SQLite3, Tkinter, Linux, Nmap) Tj
+0 -38 Td
+(Projects) Tj
+0 -22 Td
+(Network Scanner, ATS Resume Maker, Restaurant Order Management System) Tj
+0 -22 Td
+(Employee Salary Management System, Python Development) Tj
+0 -38 Td
+(Experience) Tj
+0 -22 Td
+(Backend Development Internship - REST API structure, database-backed features, testing, and reusable patterns.) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001186 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1256
+%%EOF

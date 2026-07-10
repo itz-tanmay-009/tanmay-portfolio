@@ -1,0 +1,16 @@
+{
+  "name": "Tanmay Kumar Mallick Portfolio",
+  "short_name": "Tanmay.dev",
+  "description": "Software developer and cybersecurity portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

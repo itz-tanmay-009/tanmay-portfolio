@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050506"/>
+      <stop offset=".52" stop-color="#0c1114"/>
+      <stop offset="1" stop-color="#121006"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset=".5" stop-color="#6ee7b7"/>
+      <stop offset="1" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 150h1200M0 300h1200M0 450h1200M200 0v630M400 0v630M600 0v630M800 0v630M1000 0v630" stroke="#fff" stroke-opacity=".06"/>
+  <rect x="84" y="92" width="1032" height="446" rx="28" fill="#0b0b0f" stroke="#fff" stroke-opacity=".12"/>
+  <text x="126" y="216" font-family="Inter,Arial,sans-serif" font-size="72" font-weight="900" fill="#fff">Tanmay Kumar Mallick</text>
+  <text x="130" y="286" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700" fill="url(#accent)">Software Developer Portfolio</text>
+  <text x="130" y="356" font-family="Inter,Arial,sans-serif" font-size="25" fill="#cbd5e1">Backend Development | Cybersecurity | AI Security</text>
+  <rect x="130" y="418" width="258" height="56" rx="12" fill="url(#accent)"/>
+  <text x="160" y="454" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" fill="#050506">Tanmay.dev</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420">
+  <rect width="760" height="420" fill="#09090c"/>
+  <rect x="62" y="58" width="636" height="304" rx="18" fill="#111116" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="96" y="96" width="220" height="224" rx="14" fill="#ffffff" opacity=".07"/>
+  <rect x="350" y="96" width="254" height="54" rx="12" fill="#67e8f9" opacity=".38"/>
+  <rect x="350" y="176" width="298" height="54" rx="12" fill="#6ee7b7" opacity=".3"/>
+  <rect x="350" y="256" width="214" height="54" rx="12" fill="#facc15" opacity=".3"/>
+  <circle cx="206" cy="168" r="48" fill="#fb7185" opacity=".5"/>
+  <rect x="142" y="248" width="128" height="20" rx="6" fill="#ffffff" opacity=".3"/>
+  <text x="96" y="352" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">Restaurant Order Management</text>
+</svg>

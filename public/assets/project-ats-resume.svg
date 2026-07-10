@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420">
+  <rect width="760" height="420" fill="#09090c"/>
+  <rect x="58" y="54" width="644" height="312" rx="18" fill="#111116" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="94" y="88" width="254" height="244" rx="14" fill="#ffffff" opacity=".08"/>
+  <rect x="128" y="126" width="154" height="18" rx="5" fill="#67e8f9" opacity=".6"/>
+  <rect x="128" y="170" width="184" height="14" rx="5" fill="#ffffff" opacity=".22"/>
+  <rect x="128" y="206" width="154" height="14" rx="5" fill="#ffffff" opacity=".18"/>
+  <rect x="128" y="242" width="196" height="14" rx="5" fill="#ffffff" opacity=".18"/>
+  <rect x="128" y="278" width="136" height="14" rx="5" fill="#ffffff" opacity=".18"/>
+  <rect x="388" y="92" width="236" height="72" rx="14" fill="#6ee7b7" opacity=".28"/>
+  <rect x="388" y="192" width="236" height="72" rx="14" fill="#facc15" opacity=".28"/>
+  <circle cx="624" cy="302" r="38" fill="#67e8f9" opacity=".42"/>
+  <path d="M604 302l14 14 28-34" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="94" y="350" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">ATS Resume Maker</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420">
+  <rect width="760" height="420" fill="#08090b"/>
+  <rect x="56" y="58" width="648" height="304" rx="18" fill="#111116" stroke="#ffffff" stroke-opacity=".12"/>
+  <circle cx="380" cy="210" r="112" fill="none" stroke="#67e8f9" stroke-opacity=".5" stroke-width="3"/>
+  <circle cx="380" cy="210" r="58" fill="none" stroke="#6ee7b7" stroke-opacity=".55" stroke-width="3"/>
+  <circle cx="380" cy="210" r="10" fill="#facc15"/>
+  <g fill="#ffffff">
+    <circle cx="210" cy="126" r="10" opacity=".72"/>
+    <circle cx="560" cy="154" r="10" opacity=".72"/>
+    <circle cx="516" cy="294" r="10" opacity=".72"/>
+    <circle cx="252" cy="296" r="10" opacity=".72"/>
+  </g>
+  <path d="M380 210L210 126M380 210l180-56M380 210l136 84M380 210L252 296" stroke="#ffffff" stroke-opacity=".2" stroke-width="3"/>
+  <text x="80" y="336" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">Advanced Network Scanner</text>
+</svg>
